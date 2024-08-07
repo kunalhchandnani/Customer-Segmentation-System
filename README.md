@@ -98,3 +98,48 @@ To use the Customer Segmentation System:
 
 The system segments customers into distinct groups based on their purchasing behavior and demographic attributes. These insights enable businesses to customize their marketing strategies effectively.
 
+![Distribution of Balance](https://github.com/user-attachments/assets/d7941f63-f13d-466e-b819-a884523157a2)
+
+![Balance vs Purchases Colored by Credit Limit](https://github.com/user-attachments/assets/a5c6ec64-5ff3-4cbf-800d-87aadbf1bb25)
+
+![Correlation Matrix](https://github.com/user-attachments/assets/99260041-927c-4d72-aaa7-07dd1f7f7b56)
+
+![Pairwise Relationships](https://github.com/user-attachments/assets/cf0076fe-a250-4525-bbad-b9693f8dd724)
+
+![Boxplot of Balance by Tenure](https://github.com/user-attachments/assets/589bf9f6-ef38-4ebc-bba6-d588d46766de)
+
+![Purchases vs Payments Segmentation by Tenure](https://github.com/user-attachments/assets/f6d90d34-8e7c-42da-af1d-2ce767633108)
+
+![Purchases Frequency](https://github.com/user-attachments/assets/6f549354-4fb7-4b73-94d1-de7dfb252ed6)
+
+![Payment Purchases 3D Plot](https://github.com/user-attachments/assets/424eb77f-60c1-4678-b9de-2b8758b5cb38)
+
+![Purchase Frequency](https://github.com/user-attachments/assets/229208bc-96b7-4f3b-bc66-c1aede3dc22f)
+
+![Purchase Categories Sunburst Chart](https://github.com/user-attachments/assets/b704e4df-40d6-4222-bde4-a5b913e3a427)
+
+![Animate Bubble Chart for Cash Advance](https://github.com/user-attachments/assets/ef6dfeab-81eb-4de6-a912-2c22685e7b98)
+
+![Purchases](https://github.com/user-attachments/assets/50ec2643-0153-4974-ae08-79a60d1a643c)
+
+![Variance Ratio](https://github.com/user-attachments/assets/0768e9bd-acdf-4070-853f-07e5afd9fed8)
+
+![Inertia](https://github.com/user-attachments/assets/ec8b7e6c-8c6f-4ff6-8dba-983c5012fb7e)
+
+![Clusters Plot](https://github.com/user-attachments/assets/74f59269-3e67-4648-a995-1ae3d040e5d9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
