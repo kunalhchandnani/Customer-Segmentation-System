@@ -12,8 +12,6 @@
 6. [Web Application Deployment](#web-application-deployment)
 7. [Usage](#usage)
 8. [Results](#results)
-9. [References](#references)
-10. [License](#license)
 
 ---
 
